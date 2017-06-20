@@ -1,0 +1,169 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 7,
+        "name": "Asserting that the latest news is displayed on the home page",
+        "description": "",
+        "id": "valtech-qa-assignment;asserting-that-the-latest-news-is-displayed-on-the-home-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "I navigate to the valtech home page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I should see the latest news displayed",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 21,
+        "name": "Asserting H1 tags on various pages contains titles",
+        "description": "",
+        "id": "valtech-qa-assignment;asserting-h1-tags-on-various-pages-contains-titles;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 14,
+            "name": "I navigate to the valtech home page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 15,
+            "name": "I  visit the page \"ABOUT\"",
+            "match": {},
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 16,
+            "name": "I should see the page name \"About\"",
+            "match": {},
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 22,
+        "name": "Asserting H1 tags on various pages contains titles",
+        "description": "",
+        "id": "valtech-qa-assignment;asserting-h1-tags-on-various-pages-contains-titles;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 14,
+            "name": "I navigate to the valtech home page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 15,
+            "name": "I  visit the page \"SERVICE\"",
+            "match": {},
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 16,
+            "name": "I should see the page name \"Service\"",
+            "match": {},
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 23,
+        "name": "Asserting H1 tags on various pages contains titles",
+        "description": "",
+        "id": "valtech-qa-assignment;asserting-h1-tags-on-various-pages-contains-titles;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 14,
+            "name": "I navigate to the valtech home page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 15,
+            "name": "I  visit the page \"WORK\"",
+            "match": {},
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 16,
+            "name": "I should see the page name \"Work\"",
+            "match": {},
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "valtech QA assignment",
+    "description": "As a QA tester\nI want to be able to navigate to the homepage\nSo that i can do some assertions",
+    "id": "valtech-qa-assignment",
+    "keyword": "Feature",
+    "uri": "/Users/markkofi/Documents/Applications/hmrc/valtechTest/src/main/resources/valtechTest.feature"
+  }
+]
