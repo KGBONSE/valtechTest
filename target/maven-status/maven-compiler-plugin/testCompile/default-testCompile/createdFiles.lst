@@ -1,2 +1,4 @@
+stepDefTest/pageTitleTest.class
 stepDefTest/valtechStepDefTest.class
-runAllTest/RunCukeTests.class
+runAllTest/RunCukeTest.class
+stepDefTest/numberOfValtechOfficesTest.class

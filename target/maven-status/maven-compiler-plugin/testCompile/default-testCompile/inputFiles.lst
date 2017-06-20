@@ -1,5 +1,4 @@
-/Users/markkofi/Documents/Applications/hmrc/valtechTest/src/test/java/runAllTest/RunCukeTests.java
-/Users/markkofi/Documents/Applications/hmrc/valtechTest/src/test/java/pages/homePage.java
-/Users/markkofi/Documents/Applications/hmrc/valtechTest/src/test/java/pages/pageTitlePage.java
-/Users/markkofi/Documents/Applications/hmrc/valtechTest/src/test/java/stepDefTest/valtechStepDefTest.java
-/Users/markkofi/Documents/Applications/hmrc/valtechTest/src/test/java/pages/Driver.java
+/Users/markkofi/Documents/Applications/valtechTest/src/test/java/stepDefTest/pageTitleTest.java
+/Users/markkofi/Documents/Applications/valtechTest/src/test/java/runAllTest/RunCukeTest.java
+/Users/markkofi/Documents/Applications/valtechTest/src/test/java/stepDefTest/numberOfValtechOfficesTest.java
+/Users/markkofi/Documents/Applications/valtechTest/src/test/java/stepDefTest/valtechStepDefTest.java
