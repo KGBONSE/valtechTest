@@ -17,14 +17,16 @@
 
         Examples:
           | pageName | title   |
-          | ABOUT    | Aboutd   |
-          | SERVICE  | Service |
-          | WORK     | Work    |
+#          | ABOUT    | Aboutd   |
+#          | SERVICE  | Service |
+#          | WORK     | Work    |
 
     Scenario Outline: Outputing the total number of valtech offices
       Given I navigate to the valtech home page
-      When I  visit the page "<pageNames>"
+#      When I  visit the contact page "<pageName>"
+      When I navigate to the contact page
+      Then I should see the total number of valtech offices
       
       Examples: 
- |pageName|
- |  Contact      |
+      |pageName|
+      |  Contact      |
