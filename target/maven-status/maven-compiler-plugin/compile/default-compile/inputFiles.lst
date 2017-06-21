@@ -1,4 +1,6 @@
-/Users/markkofi/Documents/Applications/valtechTest/src/main/java/pages/pageTitlePage.java
-/Users/markkofi/Documents/Applications/valtechTest/src/main/java/pages/homePage.java
-/Users/markkofi/Documents/Applications/valtechTest/src/main/java/pages/Driver.java
-/Users/markkofi/Documents/Applications/valtechTest/src/main/java/pages/numberOfValtechOfficesPage.java
+/Users/markkofi/Documents/Applications/valtechTest/src/main/java/pages/PageTitlePage.java
+/Users/markkofi/Documents/Applications/valtechTest/src/main/java/pages/ContactOfficesPage.java
+/Users/markkofi/Documents/Applications/valtechTest/src/main/java/pages/WorkPage.java
+/Users/markkofi/Documents/Applications/valtechTest/src/main/java/pages/HomePage.java
+/Users/markkofi/Documents/Applications/valtechTest/src/main/java/pages/AboutPage.java
+/Users/markkofi/Documents/Applications/valtechTest/src/main/java/pages/ServicesPage.java
