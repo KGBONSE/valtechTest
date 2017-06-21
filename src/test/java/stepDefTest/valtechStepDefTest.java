@@ -6,7 +6,8 @@ import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.
+		ChromeDriver;
 import org.openqa.selenium.support.PageFactory;
 import pages.*;
 
@@ -28,7 +29,9 @@ public class valtechStepDefTest {
 	public void prepare() {
 		driver = new ChromeDriver();
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-		driver.manage().window().maximize();
+		driver.manage().deleteAllCookies();
+
+//		driver.manage().window().maximize();
 		String baseUrl = "http://www.valtech.com";
 		driver.get(baseUrl);
 	}
